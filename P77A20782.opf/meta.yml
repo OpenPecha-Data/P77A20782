@@ -1,0 +1,44 @@
+id: P77A20782
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA2DB25060
+  instance_id: http://purl.bdrc.io/resource/IE2DB25060
+  collection_id: http://purl.bdrc.io/resource/PR0ET005
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། འུག་ཡུག་པ་རིགས་པའི་སེངྒེ
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - wu you ba . ren bei sang ge wen ji
+  author: http://purl.bdrc.io/resource/P3089
+  publisher: KarmaDelek
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    19953a1a06d04617afe9ced40363c044:
+      title: ༄༅།་།དཔེ་སྐྲུན་གསལ་བཤད།མེས་པོའི་ཤུལ་བཞགཅེས་པའི་དཔེ་ཚོགས་འདི་ནི་དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་གིས་བསྒྲིགས་ཤིང་འདི་ག་དཔ
+      volume_number: 3
+      base_file: UT2DB25060_003_0001.txt
+      reference: http://purl.bdrc.io/resource/VLFDE9B8C75A37C32A
+      image_group: null
+      quality: null
+    453bb03f6bb04a828934a358c25176bd:
+      title: ཚད་མ་རྣམ་འགྲེལ་གྱི་རྣམ་བཤད་རིགས་པའི་མཛོད་ལས་མངོན་སུམ་ལེའུའི་རྣམ་བཤད།ཚད་མ་རྣམ་འགྲེལ་གྱི་རྣམ་བཤད་རིགས་པའི་མཛོད་ལས་གཞན་དོན་ལེའུའི་ར
+      volume_number: 2
+      base_file: UT2DB25060_002_0005.txt
+      reference: http://purl.bdrc.io/resource/VLF5B290394DA48FD4
+      image_group: null
+      quality: null
+    d5ef4162fb3f4ad99709bc6bed2485a8:
+      title: རྒྱ་གར་སྐད་དུ།པྲ་མཱ་ཎ་བཱར་ཏི་ཀཱ་ཊཱིཀ་བྱ་ཀོ་ཥ་ནཱ་མ།
+      volume_number: 1
+      base_file: UT2DB25060_001_0007.txt
+      reference: http://purl.bdrc.io/resource/VL2B02585688394FE5
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W2DB25060
+  - http://purl.bdrc.io/resource/MW2DB25060
+created_at: '2021-12-29T12:24:59.103374'
+last_modified_at: '2021-12-29T12:24:59.103381'
